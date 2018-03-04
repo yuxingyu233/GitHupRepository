@@ -1,2 +1,0 @@
-# GitHupRepository
-测试
